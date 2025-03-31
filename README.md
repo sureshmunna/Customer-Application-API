@@ -1,8 +1,9 @@
 # Project Info
 
-* C# .Net Core CLI _SU
-* Access a SMART FHIR Server
-* Use a local web server for redirection
+* C# .Net Core CLI 
+* Created an Customer API Application to send the data to API calls
+* And I piblished this application in Local IIS and gave port as http://192.168.0.33 to fetch the data 
+
 
 # Documentation
 
@@ -10,4 +11,3 @@
 ## More Information
 
 
-FHIR&reg; is the registered trademark of HL7 and is used with the permission of HL7. 
